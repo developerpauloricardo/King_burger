@@ -1,6 +1,6 @@
 <img src='.github/burger.jpg'>
 
-# Hamburgueria
+# King Burger | Hamburgueria
 
 Uma aplicação web para realizar pedidos de hambúrgueres e bebidas.
 
